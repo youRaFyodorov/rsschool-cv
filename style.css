@@ -1,9 +1,18 @@
+body{
+    background-color: rgb(242, 242, 255);
+}
 main {
     position: relative;
     max-width: 1024px;
     margin: auto;
+   
     font-family: "Lucida Sans Unicode", "Lucida Grande","Arial Black","Arial Bold", sans-serif;
 }
-
+.imagine { 
+  width: 250px;
+  height: 170px;
+  overflow: hidden;
+  border-style: solid;
+}
 
    
