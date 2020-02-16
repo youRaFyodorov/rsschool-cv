@@ -1,3 +1,9 @@
-head {
-    color : blue;
+main {
+    position: relative;
+    max-width: 1024px;
+    margin: auto;
+    font-family: "Lucida Sans Unicode", "Lucida Grande","Arial Black","Arial Bold", sans-serif;
 }
+
+
+   
